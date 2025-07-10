@@ -4,7 +4,7 @@ Java program
 All Java program code are here.
 
 ## Practice Sets(Code)
-* CGPA Calculator 
+* [CGPA Calculator](practiceset2/CGPA.java)
 * CBSE Result
 * Greet Wish
 * Checker(Integer number)
