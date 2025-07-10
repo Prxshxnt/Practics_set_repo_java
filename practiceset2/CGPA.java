@@ -12,7 +12,7 @@ public class CGPA {
         System.out.println("Enter the marks of Big Data: ");
         int Big_Data=CGPA.nextInt();
         float result= ((DBMS+DAA+Big_Data))/30f;
-        System.out.println("The CGPA is: " +result );
+        System.out.println("The CGPA is: " +result);
         
     }
     
