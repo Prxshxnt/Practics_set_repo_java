@@ -1,5 +1,5 @@
 # Practics_set_repo_java
-[ ![JAVA logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmSmJgXu6kW8ONXMTLq0LD6BJGFV3Hoc0DRg&s)](https://github.com/Prxshxnt/Practics_set_repo_java.git)
+[ ![JAVA logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmSmJgXu6kW8ONXMTLq0LD6BJGFV3Hoc0DRg&s)](practiceset2)
 <br>
 All Java program code are here.
 
