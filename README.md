@@ -14,4 +14,4 @@ All Java program code are here.
 * [KM to Miles convertor](practiceset2/km_to_miles.java)
 * [Name Print](practiceset2/name.java)
 * [Sum of three number](practiceset2/sum_of_no.java)
-* [Swap two number] (practiceset2/swap2no.java)
+* [Swap two number](practiceset2/swap2no.java)
