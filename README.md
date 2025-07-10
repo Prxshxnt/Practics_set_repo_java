@@ -2,3 +2,16 @@
 Java program
 <br>
 All Java program code are here.
+
+## Practice Sets(Code)
+* CGPA Calculator 
+* CBSE Result
+* Greet Wish
+* Checker(Integer number)
+* Comparison
+* Evaluation
+* Expression
+* KM to Miles convertor
+* Name Print
+* Sum of three number
+* Swap two number 
