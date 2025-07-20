@@ -15,3 +15,4 @@ All Java program code are here.
 * [Name Print](practiceset2/name.java)
 * [Sum of three number](practiceset2/sum_of_no.java)
 * [Swap two number](practiceset2/swap2no.java)
+* [Part of speech](practiceset2\grammer.java)
