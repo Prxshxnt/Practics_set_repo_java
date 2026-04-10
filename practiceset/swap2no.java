@@ -1,4 +1,3 @@
-package Practics_set_repo_java.practiceset2;
 
 public class swap2no {
     public static void main(String[] args) {

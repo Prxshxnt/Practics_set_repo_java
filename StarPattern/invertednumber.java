@@ -1,4 +1,5 @@
-package Practics_set_repo_java.StarPattern;
+package StarPattern;
+;
 
 public class invertednumber {
     public static void main(String[] args) {

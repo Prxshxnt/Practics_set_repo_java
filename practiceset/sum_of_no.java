@@ -1,4 +1,3 @@
-package Practics_set_repo_java.practiceset2;
 import java.util.Scanner;
 
 public class sum_of_no{

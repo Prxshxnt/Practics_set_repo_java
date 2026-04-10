@@ -1,4 +1,3 @@
-package Practics_set_repo_java.practiceset2;
 
 import java.util.Scanner;
 

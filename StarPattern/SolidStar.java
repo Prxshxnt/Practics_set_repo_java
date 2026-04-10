@@ -1,4 +1,4 @@
-package Practics_set_repo_java.StarPattern;
+package StarPattern;
 
 public class SolidStar {
     public static void main(String[] args) {
