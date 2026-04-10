@@ -1,6 +1,6 @@
-package bubbleSort;
+package Sorting;
 
-public class Sorting {
+public class BSorting {
     public static void printArr(int arr[]) {
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + " ");
